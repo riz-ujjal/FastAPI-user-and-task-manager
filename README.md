@@ -60,7 +60,7 @@ This project provides a robust relational data pipeline for user and routine man
 ## 💻 Local Setup & Installation
 1. Clone the repository
   Bash
-    git clone [https://github.com/yourusername/smart-productivity-api.git](https://github.com/yourusername/smart-productivity-api.git)
+    git clone [https://github.com/yourusername/smart-productivity-api.git](https://github.com/riz-ujjal/FastAPI-user-and-task-manager.git)
     cd smart-productivity-api
 
 2. Install dependencies
