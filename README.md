@@ -57,7 +57,7 @@ This project provides a robust relational data pipeline for user and routine man
 
 ```
 
-##💻 Local Setup & Installation
+## 💻 Local Setup & Installation
 1. Clone the repository
   Bash
     git clone [https://github.com/yourusername/smart-productivity-api.git](https://github.com/yourusername/smart-productivity-api.git)
